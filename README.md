@@ -1,2 +1,2 @@
 # discourse-hide-users
-Theme to hide users from topic list
+Theme component to hide users from topic list
